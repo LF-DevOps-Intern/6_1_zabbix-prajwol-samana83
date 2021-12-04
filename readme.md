@@ -10,5 +10,5 @@ Apache
 
 PHP
 
-Zabbix Server-Modules for Apache & Database;
+Zabbix Server-Modules for Apache & Database\n
 Zabbix Frontend
